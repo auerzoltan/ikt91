@@ -1,1 +1,2 @@
 # ikt91
+kapcsolatpróba
